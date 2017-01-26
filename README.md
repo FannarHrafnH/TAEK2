@@ -11,6 +11,7 @@ ESD stendur fyrir Electronic Discharge, hefurðu einhvern tíman snert málm og 
 Aðalega það að hafa meira en nóg af spennu frá þeim ekki reyna að fá spennugjafa sem mun gefa þér nákvæmlega eins mikla spennu og þú getur frekar 100W eða svo meira
 ### 6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
 1. Komast af því hvað er að, 2.gera kenningu um hvað valdi vandamálinu, 3.prófa þá kenningu til að sjá hvort það veldur því, 4.gera plan um hvernig á að laga vandamálið, 5. fara yfir og vera viss um að lausnin lagaði vandamálið og að allt gangi nú vel í tölvunni, 6.skrifa niður hvað þú gerðir, fannst, hvað vandamálið var, hver lausnin var og hvernig á að leysa vandamálið
+
 ### 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu?
 ### Nefnið dæmi um báðar gerðir af spurningum.
 Lokuð spurning veldur því að það er nærrum eingöngu hægt að svara með já eða nei á meðan opin spurning gerir það svo þú veist ekki alveg hvaða svar þú munt fá endilega
